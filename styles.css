@@ -62,11 +62,10 @@ body, #calculator-container, #button-container  {
     background-color: aquamarine;
 }
 
-#clear {
+.clear {
     background-color: yellow;
-    font-size: large;
 }
 
-#equals {
+.equals {
     background-color: hotpink;
 }
